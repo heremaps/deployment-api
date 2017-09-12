@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: DeploymentApiService  
+  profiles:
+    active: test
+  main:
+    banner-mode: 'off'
+logging:
+  level:
+    org.springframework: ERROR 
+    com.here.dcos.deployment: DEBUG
+    

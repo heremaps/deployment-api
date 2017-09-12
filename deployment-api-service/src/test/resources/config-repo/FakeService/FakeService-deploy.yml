@@ -1,0 +1,82 @@
+marathon:
+  cpus: 1
+  mem: 512
+  container:
+    type: DOCKER
+    docker:
+      forcePullImage: true
+      network: BRIDGE
+      portMappings:
+        -
+          containerPort: 8080
+          hostPort: 0
+          servicePort: 9000
+          protocol: tcp
+          labels:
+            -
+              key: app-label-test
+              value: app-label-test-value
+    volumes:
+      -
+        containerPath: /vol
+        hostPath: /vol
+        mode: RW   
+        id: vol
+        status: status
+        type: type
+        name: name
+        provider: provider
+        options:
+          -
+            key: app-vol-test
+            value: app-vol-test-value
+  upgradeStrategy:
+    minimumHealthCapacity: 1.0
+    maximumOverCapacity: 0.5
+  healthChecks:
+    -
+      protocol: MESOS_HTTP
+      portIndex: 0
+      gracePeriodSeconds: 5 
+      path: /
+      intervalSeconds: 10 
+      timeoutSeconds: 10
+      maxConsecutiveFailures: 3
+      ignoreHttp1xx: true
+  secrets:
+    -
+      name: app-secret-test
+      source: app-secret-test-value 
+  labels:
+    -
+      key: app-label-test
+      value: app-label-test-value
+  fetch:
+    -
+      uri: app-test-fetch
+      executable: true
+      extract: true
+      cache: true
+      outputFile: outputFile
+  constraints: 
+    -
+      attribute: app-test-attribute
+      operator: UNIQUE
+      value: app-test-attribute-value
+application:
+  env:
+    -
+      key: application-env-test
+      value: application-env-test-value
+    -
+      key: SECRET
+      secret: app-secret-test      
+  docker:
+    parameters:
+      -
+        key: application-docker-param-test
+        value: application-docker-param-test-value
+  labels:
+    -
+      key: app-label-test-list
+      value: app-label-test-list-value        

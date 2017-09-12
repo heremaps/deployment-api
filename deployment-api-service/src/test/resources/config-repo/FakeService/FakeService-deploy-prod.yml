@@ -1,0 +1,30 @@
+marathon:
+  url: http://env-test-url
+  appId: /fakeservice-prod
+  instances: 3
+global:
+  env:
+  docker:
+    parameters:
+  labels:
+application:
+  env:
+  docker:
+    parameters:
+  labels:    
+environment:
+  env:
+    - 
+      key: environment-prod-env-test
+      value: environment-prod-env-test-value
+  docker:
+    parameters:
+      -
+        key: environment-prod-docker-param-test
+        value: environment-prod-docker-param-test-value
+  labels:
+    -
+      key: HAPROXY_0_BACKEND_HTTP_HEALTHCHECK_OPTIONS
+      template: haproxy_backend_health
+      args:
+        - myhost-prod.com              

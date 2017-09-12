@@ -1,0 +1,29 @@
+server:
+  port: ${TOMCAT_PORT:8080}
+    
+management:
+  context-path: /admin    
+
+security:
+  basic:
+    enabled: false
+
+health:
+  config:
+    enabled: false
+          
+logging:  
+  level:
+    com.here.deployment: INFO
+    org.springframework: ERROR
+    org.apache: ERROR
+    springfox: ERROR
+    com.netflix.discovery.provider: ERROR
+    com.netflix.config.sources.URLConfigurationSource: ERROR
+    
+deployment:  
+  label:
+    template:
+      provided:
+        haproxy_backend_head: backend {backend}\r\n balance {balance}\r\n mode {mode}\r\n timeout server {0}\r\n timeout client {0}\r\n
+        haproxy_backend_health: option httpchk GET {healthCheckPath} HTTP/1.1\\r\\nHost:\\ {0}\n

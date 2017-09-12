@@ -1,0 +1,23 @@
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideSystemProperties: false
+      failFast: true
+      server:
+        bootstrap: true
+        prefix: /config
+        git: 
+          cloneOnStart: true
+          timeout: 10000
+          searchPaths: '{application}' 
+  application:
+    name: DeploymentApiService
+  profiles:
+    active: service
+  main:
+    banner-mode: 'off'
+logging:
+  level:
+    org.springframework: ERROR 
+    

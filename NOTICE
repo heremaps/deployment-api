@@ -1,0 +1,2546 @@
+DC/OS Deployment API Service
+Copyright (c) 2017 HERE Europe B.V.
+
+This software contains or depends on open source components pursuant to the following licenses:
+
+----
+
+classmate
+
+Java ClassMate library was originally written by Tatu Saloranta (tatu.saloranta@iki.fi)
+
+Other developers who have contributed code are:
+
+* Brian Langel
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+commons-codec
+
+Copyright (c) 2008 Alexander Beider & Stephen P. Morse.
+
+Copyright (c) 2002 Kevin Atkinson (kevina@gnu.org)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+commons-collections4
+
+Copyright 2001-2015 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+commons-collections4
+
+Copyright 2001-2015 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+commons-lang3
+
+Copyright 2001-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+feign-core
+
+Copyright 2013, 2014 Netflix, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+feign-gson
+
+Copyright 2013 Netflix, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+feign-slf4j
+
+Copyright 2013 Netflix, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+gson
+
+Copyright (C) 2008-2017 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+guava
+
+Copyright (C) 2004-2017 The Guava Authors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+hibernate-validator
+
+Copyright (c) 2008-2012 Google Inc.
+
+Copyright (c) 2012 Square, Inc.
+
+Copyright (c) 2010 The Android Open Source Project Copyright (c) 2012 Google Inc.
+
+Copyright (c) 2016 The Gson Authors
+
+Copyright (c) 2014 Trymph Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+httpclient
+
+Copyright 1999-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+httpcore
+
+Copyright 2005-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jackson-annotations
+
+Copyright: 2013, FasterXML, LLC, Seattle, USA 
+
+Copyright: 2013, Wolodja Wentland 
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jackson-core
+
+Copyright (c) 2007- Tatu Saloranta, tatu.saloranta@iki.fi
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jackson-databind
+
+Tatu Saloranta, tatu.saloranta@iki.fi: author
+
+Pascal Glinas:
+  * Contributed fixes to 'MappingIterator' handling (Pull#58 and Pull#59)
+   (2.1.0)
+  * Reported #220: ContainerNode missing 'createNumber(BigInteger)'
+   (2.2.2)
+
+Joern Huxhorn: (huxi@github)
+  * Suggested [JACKSON-636]: Add 'SerializationFeature.ORDER_MAP_ENTRIES_BY_KEYS' to allow
+    forced sorting of Maps during serialization
+   (2.0.0)
+  * Reported #479: NPE on trying to deserialize a `String[]` that contains null
+   (2.4.1)
+  * Reported #1411: MapSerializer._orderEntries should check for null keys
+   (2.7.9)
+
+James Roper:
+ * Requested [JACKSON-732]: Allow 'AnnotationIntrospector.findContentDeserializer()'
+    (and similar) to return instance, not just Class<?> for instance
+  (2.0.0)
+ * Suggested [JACKSON-800]: Adding a method for letting modules register
+    DeserializationProblemHandlers
+  (2.0.0)
+
+Casey Lucas:
+ * Reported [JACKSON-798]: Problem with external type id, creators
+  (2.0.0)
+
+Tammo van Lessen:
+ * Reported [JACKSON-811]: Problems with @JsonIdentityInfo, abstract types
+  (2.0.0)
+ * Reported [JACKSON-814]: Parsing RFC822/RFC1123 dates failes on non-US locales
+  (2.0.0)
+
+Raymond Myers:
+ * Suggested [JACKSON-810]: Deserialization Feature: Allow unknown Enum values via
+    'DeserializationFeature.READ_UNKNOWN_ENUM_VALUES_AS_NULL'
+  (2.0.0)
+
+Ryan Gardner:
+ * Contributed #5 -- Add support for maps with java.util.Locale keys
+    to the set of StdKeyDeserializers
+  (2.0.1)
+
+Razvan Dragut:
+ * Suggested [JACKSON-850]: Allow use of zero-arg factory methods as "default creator"
+  (2.1.0)
+
+Duncan Atkinson:
+ * Reported [JACKSON-851]: State corruption with ObjectWriter, DefaultPrettyPrinter
+  (2.1.0)
+
+Mark Wolfe:
+ * Suggested #45: Add `@JsonNaming()` for per-class naming strategy overrides
+  (2.1.0)
+
+Dmitry Katsubo:
+ * Contributed patch for #65: Add getters to `ObjectMapper`, DeserializationContext,
+   DeserializationFactory.
+  (2.1.0)
+
+Francis Galiegue:
+ * Reported #93 (and suggested fix): bug in `ObjectMapper.setAll(...)'
+  implementation
+  (2.1.1)
+ * Reported #433: `ObjectMapper`'s `.valueToTree()` wraps `JsonSerializable` objects
+  into a POJONode
+  (2.3.3)
+ * Contributed #434: Ensure that DecimalNodes with mathematically equal values are equal
+  (2.4.0)
+
+kelaneren@github:
+ * Reported #157, contributed unit test: NPE when registering same module twice.
+  (2.1.4)
+
+Eric Tschetter (cheddar@github):
+  * Reported issues #166, #167, #170 (regressions from 1.9.x to 2.x)
+   (2.1.4)
+
+Thierry D (thierryd@github)
+  * Reported #214: Problem with LICENSE, NOTICE, Android packaging
+   (2.2.2)
+
+Luke G-H (lukegh@github)
+  * Reported #223: Duplicated nulls with @JsonFormat(shape=Shape.ARRAY)
+   (2.2.2)
+
+Karl Moore (karldmoore@github)
+  * Reported #217: JsonProcessingExceptions not all wrapped as expected
+   (2.2.2)
+
+David Phillips:
+  * Requested #308: Improve serialization and deserialization speed of `java.util.UUID`
+   (2.3.0)
+
+Seth Pellegrino (jivesoft):
+  * Contributed #317: Fix `JsonNode` support for nulls bound to	`ObjectNode`, `ArrayNode`
+   (2.3.0)
+
+Florian Schoppmann (fschopp@github)
+  * Reported #357: StackOverflowError with contentConverter that returns array type
+   (2.7.0)
+  * Reported #358: `IterableSerializer` ignoring	annotated content serializer
+   (2.3.1)
+  * Reported #359: Converted object not using explicitly annotated serializer
+   (2.4.0)
+
+Martin Traverso:
+  * Reported #406: Cannot use external type id + @JsonTypeIdResolver
+   (2.3.2)
+
+Matthew Morrissette:
+  * Contributed #381: Allow inlining/unwrapping of value from single-component JSON array
+   (2.4.0)
+
+Will Palmeri: (wpalmeri@github)
+  * Contributed #407: Make array and Collection serializers use configured value null handler
+   (2.4.0)
+
+Cemalettin Koc: (cemo@github)
+  * Reported #353: Problems with polymorphic types, `JsonNode` (related to #88)
+   (2.4.0)
+
+Ben Fagin: (UnquietCode@github)
+  * Suggested #442: Make `@JsonUnwrapped` indicate property inclusion
+   (2.4.0)
+  * Contributed #81/#455: Allow use of @JsonUnwrapped with typed (@JsonTypeInfo) classes,
+    provided that (new) feature `SerializationFeature.FAIL_ON_UNWRAPPED_TYPE_IDENTIFIERS`
+    is disabled
+   (2.4.0)
+
+Chris Cleveland:
+  * Suggested #463: Add 'JsonNode.asText(String defaultValue)`
+   (2.4.0)
+
+Benson Margulies:
+  * Reported #467: Unwanted POJO's embedded in tree via serialization to tree
+   (2.4.0)
+  * Reported #601: ClassCastException for a custom serializer for enum key in `EnumMap`
+   (2.4.4)
+  * Contributed 944: Failure to use custom deserializer for key deserializer
+   (2.6.3)
+  * Reported #1120: String value omitted from weirdStringException
+   (2.6.6)
+  * Reported, fixed #1235: `java.nio.file.Path` support incomplete
+   (2.8.0)
+  * Reported #1270: Generic type returned from type id resolver seems to be ignored
+   (2.8.0)
+
+Steve Sanbeg: (sanbeg@github)
+  * Contributed #482: Make date parsing error behavior consistent with JDK
+   (2.4.1)
+
+Ian Barfield: (tea-dragon@github)
+  * Reported #580: delegate deserializers choke on a (single) abstract/polymorphic parameter
+   (2.4.4)
+  * Reported #844: Using JsonCreator still causes invalid path references in JsonMappingException
+   (2.5.5)
+
+Eugene Lukash
+  * Reported #592: Wrong `TokenBuffer` delegate deserialization using `@JsonCreator`
+   (2.4.4)
+
+Fernando Otero (zeitos@github)
+  * Contributed fix for #610: Problem with forward reference in hierarchies
+   (2.4.4)
+
+Lovro Pandžić (lpandzic@github)
+  * Reported #421: @JsonCreator not used in case of multiple creators with parameter names
+   (2.5.0)
+
+Adam Stroud (adstro@github)
+  * Contributed	#576: Add fluent API for adding mixins
+   (2.5.0)
+
+David Fleeman (fleebytes@github)
+  * Contributed #528 implementation: Add support for `JsonType.As.EXISTING_PROPERTY`
+   (2.5.0)
+
+Aurélien Leboulanger (herau@github)
+  * Contributed improvement for #597: Improve error messaging for cases	where JSON Creator
+    returns null (which is illegal)
+   (2.5.0)
+
+Michael Spiegel (mspiegel@githib)
+  * Contributed #636: `ClassNotFoundException` for classes not (yet) needed during serialization
+   (2.5.0)
+
+Michael Ressler (mressler@github)
+  * Contributed #566: Add support for case-insensitive deserialization
+   (`MapperFeature.ACCEPT_CASE_INSENSITIVE_PROPERTIES`)
+   (2.5.0)
+
+Konstantin Labun (kulabun@github)
+  * Reported #647: Deserialization fails when @JsonUnwrapped property contains an object with same property name
+   (2.5.0)
+
+Christopher Smith (chrylis@github)
+  * Reported #594: `@JsonValue` on enum not used when enum value is a Map key
+   (2.5.0)
+
+Alexandre Santana Campelo (alexqi200@github):
+  * Contributed #671: Adding `java.util.Currency` deserialization support for maps
+   (2.5.1)
+
+Zoltan Farkas (zolyfarkas@github)
+  * Reported #674: Spring CGLIB proxies not handled as intended
+   (2.5.1)
+
+Ludevik@github:
+  * Reported #682: Class<?>-valued Map keys not serialized properly
+   (2.5.1)
+
+Antibrumm@github:
+  * Reported #691: Jackson 2.5.0. NullSerializer for MapProperty failing
+   (2.5.2)
+  * Reported #984: JsonStreamContexts are not build the same way for write.. and convert methods
+   (2.6.4)
+
+Shumpei Akai (flexfrank@github)
+  * Reported #703: Multiple calls to ObjectMapper#canSerialize(Object.class) returns different values
+   (2.5.2)
+
+Francisco A. Lozano (flozano@github)
+  * Contributed fix for #703 (see above)
+   (2.5.2)
+
+Dylan Scott (dylanscott@github)
+  * Reported #738: #738: @JsonTypeInfo non-deterministically ignored in 2.5.1 (concurrency
+    issue)
+   (2.5.2)
+
+Alain Gilbert (agilbert314@github)
+  * Reporter, contributed #766: Fix Infinite recursion (StackOverflowError) when
+    serializing a SOAP object
+   (2.5.3)
+
+Alexey Gavrilov (Alexey1Gavrilov@github)
+  * Reported, contributed fix for #761: Builder deserializer: in-compatible type exception
+    when return type is super type
+   (2.5.3)
+
+Dmitry Spikhalskiy (Spikhalskiy@github)
+  * Reported #731, suggested the way to fix it: XmlAdapter result marshaling error in
+    case of ValueType=Object
+   (2.5.3)
+  * Reported #1456: `TypeFactory` type resolution broken in 2.7 for generic types
+   when using `constructType` with context
+   (2.7.9 / 2.8.6)
+
+John Meyer (jpmeyer@github)
+  * Reported, contributed fix for #745: EnumDeserializer.deserializerForCreator() fails
+    when used to deserialize a Map key
+   (2.5.3)
+
+Andrew Duckett (andrewduckett@github)
+  * Reported #771: Annotation bundles ignored when added to Mixin
+   (2.5.4)
+
+Charles Allen:
+  * Contributed #785: Add handlings for classes which are available in
+    `Thread.currentThread().getContextClassLoader()`
+   (2.5.4)
+
+Andrew Goodale (newyankeecodeshop@github)
+  * Contributed #816: Allow date-only ISO strings to have no time zone
+   (2.5.4)
+
+Kamil Benedykciński (Kamil-Benedykcinski@github)
+  * Contributed #801: Using `@JsonCreator` cause generating invalid path reference
+   in `JsonMappingException`
+   (2.5.4)
+
+Chi Kim (chikim79@github)
+  * Reported #878: serializeWithType on BeanSerializer does not setCurrentValue
+   (2.5.5 / 2.6.1)
+
+Charles Allen (drcrallen@github):
+  * Reported #696: Copy constructor does not preserve `_injectableValues`
+   (2.6.0)
+
+Chris Pimlott (pimlottc@github):
+  * Suggested #348: ObjectMapper.valueToTree does not work with @JsonRawValue
+   (2.6.0)
+
+Laird Nelson (ljnelson@github)
+  * Suggested #688: Provide a means for an ObjectMapper to discover mixin annotation
+    classes on demand
+   (2.6.0)
+  * Reported #1088: NPE possibility in SimpleMixinResolver
+   (2.6.6)
+
+Derk Norton (derknorton@github)
+  * Suggested #689: Add `ObjectMapper.setDefaultPrettyPrinter(PrettyPrinter)`
+   (2.6.0)
+
+Michal Letynski (mletynski@github)
+  * Suggested #296: Serialization of transient fields with public getters (add
+    MapperFeature.PROPAGATE_TRANSIENT_MARKER)
+   (2.6.0)
+
+Jeff Schnitzer (stickfigure@github)
+  * Suggested #504: Add `DeserializationFeature.USE_LONG_FOR_INTS`
+   (2.6.0)
+
+Jerry Yang (islanderman@github)
+  * Contributed #820: Add new method for `ObjectReader`, to bind from JSON Pointer position
+   (2.6.0)
+
+Lars Pfannenschmidt (larsp@github)
+  * Contributed #826: Replaced synchronized HashMap with ConcurrentHashMap in
+   TypeDeserializerBase._findDeserializer
+   (2.6.0)
+
+Stephen A. Goss (thezerobit@github)
+  * Contributed #828: Respect DeserializationFeatures.WRAP_EXCEPTIONS in CollectionDeserializer
+   (2.6.0)
+
+Andy Wilkinson (wilkinsona@github)
+  * Reported #889: Configuring an ObjectMapper's DateFormat changes time zone
+   (2.6.1)
+
+lufe66@github:
+  * Reported 894: When using withFactory on ObjectMapper, the created Factory has a TypeParser
+    which still has the original Factory
+   (2.6.2)
+
+Daniel Walker (dsw2127@github)
+  * Reported, contributed fix for #913: `ObjectMapper.copy()` does not preserve
+   `MappingJsonFactory` features
+   (2.6.2)
+
+Sadayuki Furuhashi (frsyuki@github)
+  * Reported #941: Deserialization from "{}" to ObjectNode field causes
+    "out of END_OBJECT token" error
+   (2.6.3)
+
+David Haraburda (dharaburda@github)
+  * Contributed #918: Add `MapperFeature.ALLOW_EXPLICIT_PROPERTY_RENAMING`
+   (2.7.0)
+
+Sergio Mira (Sergio-Mira@github)
+  * Contributed #940: Add missing `hashCode()` implementations for `JsonNode` types that did not have them
+   (2.6.3)
+
+Andreas Pieber (anpieber@github)
+  * Reported #939: Regression: DateConversionError in 2.6.x	
+   (2.6.3)
+
+Jesse Wilson (swankjesse@github)
+  * Contributed #948: Support leap seconds, any number of millisecond digits for ISO-8601 Dates.
+   (2.6.3)
+  * Contributed #949: Report the offending substring when number parsing fails
+   (2.6.3)
+
+Warren Bloomer (stormboy@github)
+  * Reported #942: Handle null type id for polymorphic values that use external type id
+   (2.6.3)
+
+Ievgen Pianov (pyanoveugen@github)
+  * Reported #989: Deserialization from "{}" to java.lang.Object causes "out of END_OBJECT token" error
+   (2.6.3)
+
+Jayson Minard (apatrida@github)
+  * Reported #1005: Synthetic constructors confusing Jackson data binding
+   (2.6.4)
+  * Reported #1438: `ACCEPT_CASE_INSENSITIVE_PROPERTIES` is not respected for creator properties
+   (2.8.5)
+
+David Bakin (david-bakin@github)
+  * Reported #1013: `@JsonUnwrapped` is not treated as assuming `@JsonProperty("")`
+   (2.6.4)
+  * Suggested #1011: Change ObjectWriter::withAttributes() to take a Map with some kind of wildcard types
+   (2.7.0)
+
+Dmitry Romantsov (DmRomantsov@github)
+  * Reported #1036: Problem with case-insensitive deserialization
+   (2.6.4)
+
+Daniel Norberg (danielnorberg@github)
+  * Contributed #1099: Fix custom comparator container node traversal
+   (2.6.6)
+
+Miles Kaufmann (milesk-amzn@github)
+  * Reported #432: `StdValueInstantiator` unwraps exceptions, losing context
+   (2.7.0)
+
+Thomas Mortagne (tmortagne@github)
+  * Suggested #857: Add support for java.beans.Transient
+   (2.7.0)
+
+Jonas Konrad (yawkat@github)
+  * Suggested #905: Add support for `@ConstructorProperties`
+   (2.7.0)
+
+Jirka Kremser (Jiri-Kremser@github)
+  * Suggested #924: SequenceWriter.writeAll() could accept Iterable
+   (2.7.0)
+
+Daniel Mischler (danielmischler@github)
+  * Requested #963: Add PropertyNameStrategy `KEBAB_CASE`
+   (2.7.0)
+
+Shumpei Akai (flexfrank@github)
+  * Reported #978: ObjectMapper#canSerialize(Object.class) returns false even though
+   FAIL_ON_EMPTY_BEANS is disabled
+   (2.7.0)
+
+Hugo Wood (hgwood@github)
+  * Contributed #1010: Support for array delegator
+   (2.7.0)
+
+Julian Hyde (julianhyde@github)
+  * Reported #1083: Field in base class is not recognized, when using `@JsonType.defaultImpl`
+   (2.7.1)
+
+Thibault Kruse (tkruse@github)
+  * Reported #1102: Handling of deprecated `SimpleType.construct()` too minimalistic
+   (2.7.1)
+
+Aleks Seovic (aseovic@github)
+  * Reported #1109: @JsonFormat is ignored by the DateSerializer unless either a custom pattern
+    or a timezone are specified
+   (2.7.1)
+
+Timur Shakurov (saladinkzn@github)
+  * Reported #1134: Jackson 2.7 doesn't work with jdk6 due to use of `Collections.emptyIterator()`
+   (2.7.2)
+
+Jiri Mikulasek (pirkogdc@github)
+  * Reported #1124: JsonAnyGetter ignores JsonSerialize(contentUsing=...)
+   (2.7.2)
+
+Xavi Torrens (xavitorrens@github)
+  * Reported #1150: Problem with Object id handling, explicit `null` token
+   (2.7.3)
+
+Yoann Rodière (fenrhil@github)
+  * Reported #1154: @JsonFormat.pattern on dates is now ignored if shape is not
+    explicitely provided
+   (2.7.3)
+
+Mark Woon (markwoon@github)
+  * Reported #1178: `@JsonSerialize(contentAs=superType)` behavior disallowed in 2.7
+   (2.7.4)
+  * Reported #1231: `@JsonSerialize(as=superType)` behavior disallowed in 2.7.4
+   (2.7.5)
+  * Suggested #507: Support for default `@JsonView` for a class
+   (2.9.0)
+
+Tom Mack (tommack@github)
+  * Reported #1208: treeToValue doesn't handle POJONodes that contain exactly
+    the requested value type
+   (2.7.4)
+
+William Headrick (headw01@github)
+   * Reported#1223: `BasicClassIntrospector.forSerialization(...).findProperties` should
+    respect MapperFeature.AUTO_DETECT_GETTERS/SETTERS?
+   (2.7.5)
+
+Nick Babcock (nickbabcock)
+  * Reported #1225: `JsonMappingException` should override getProcessor()
+   (2.7.5)
+  * Suggested #1356: Differentiate between input and code exceptions on deserialization
+   (2.9.0)
+
+Andrew Joseph (apjoseph@github)
+  * Reported #1248: `Annotated` returns raw type in place of Generic Type in 2.7.x
+   (2.7.5)
+
+Erich Schubert (kno10@github)
+  * Reported #1260: `NullPointerException` in `JsonNodeDeserializer`, provided fix
+   (2.7.5)
+
+Brian Pontarelli (voidmain@github)
+  * Reported #1301: Problem with `JavaType.toString()` for recursive (self-referential) types
+   (2.7.6)
+
+Max Drobotov (fizmax@github)
+  * Reported, contributed fix for #1332: `ArrayIndexOutOfBoundException` for enum by index deser
+   (2.7.7)
+
+Stuart Douglas (stuartwdouglas@github)
+  * Reported #1363: The static field ClassUtil.sCached can cause a class loader leak
+   (2.7.8)
+
+Josh Caplan (jecaplan@github)
+  * Reported, suggested fix for #1368: Problem serializing `JsonMappingException` due to addition
+    of non-ignored `processor` property (added in 2.7)
+   (2.7.8)
+
+Diego de Estrada (diegode@github)
+  * Contributed fix for #1367: No Object Id found for an instance when using `@ConstructorProperties`
+   (2.7.9)
+
+Kevin Hogeland (khogeland@github)
+  * Reported #1501: `ArrayIndexOutOfBoundsException` on non-static inner class constructor
+   (2.7.9)
+
+Artur Jonkisz (ajonkisz@github)
+  * Reported #960: `@JsonCreator` not working on a factory with no arguments for ae enum type
+   (2.8.0)
+
+Mikhail Kokho (mkokho@github)
+  * Contributed impl for #990: Allow failing on `null` values for creator (add
+  `DeserializationFeature.FAIL_ON_NULL_CREATOR_PROPERTIES`)
+   (2.8.0)
+
+Aleksandr Oksenenko (oleksandr-oksenenko@github)
+  * Reported #999: External property is not deserialized
+   (2.8.0)
+
+Lokesh Kumar (LokeshN@github)
+  * Contributed impl for #1082: Can not use static Creator factory methods for `Enum`s,
+    with JsonCreator.Mode.PROPERTIES
+   (2.8.0)
+  * Reported #1217: `@JsonIgnoreProperties` on Pojo fields not working for deserialization
+   (2.8.0)
+
+Ross Goldberg
+  * Reported #1165, provided fix for: `CoreXMLDeserializers` does not handle
+    time-only `XMLGregorianCalendar`s
+   (2.8.0)
+
+Maarten Billemont (lhunath@github)
+  * Suggested #1184: Allow overriding of `transient` with explicit inclusion with `@JsonProperty`
+   (2.8.0)
+
+Vladimir Kulev (lightoze@github)
+  * Reported #1028: Ignore USE_BIG_DECIMAL_FOR_FLOATS for NaN/Infinity
+   (2.8.0)
+
+Ari Fogel (arifogel@github)
+  * Reported #1261, contributed fix for: `@JsonIdentityInfo` deserialization fails with
+    combination of forward references, `@JsonCreator`
+   (2.8.0)
+
+Andriy Plokhotnyuk (plokhotnyuk@github)
+  * Requested #1277: Add caching of resolved generic types for `TypeFactory`
+   (2.8.0)
+
+Arek Gabiga (arekgabiga@github)
+  * Reported #1297: Deserialization of generic type with Map.class
+   (2.8.1)
+
+Chris Jester-Young (cky@github)
+  * Contributed #1335: Unconditionally call `TypeIdResolver.getDescForKnownTypeIds`
+   (2.8.2)
+
+Andrew Snare (asnare@github)
+  * Reported #1315: Binding numeric values can BigDecimal lose precision
+   (2.8.2)
+
+Gili Tzabari (cowwoc@github)
+  * Reported #1351: `@JsonInclude(NON_DEFAULT)` doesn't omit null fields
+   (2.8.3)
+
+Oleg Zhukov (OlegZhukov@github)
+  * Reported #1384: `@JsonDeserialize(keyUsing = ...)` does not work correctly
+   together with `DefaultTyping.NON_FINAL`
+   (2.8.4)
+
+Pavel Popov (tolkonepiu@github)
+  * Contributed fix #1389: Problem with handling of multi-argument creator with Enums
+   (2.8.4)
+
+Josh Gruenberg (joshng@github)
+  * Reported #1403: Reference-chain hints use incorrect class-name for inner classes
+   (2.8.4)
+
+Kevin Donnelly (kpdonn@github)
+  * Reported #1432: Off by 1 bug in PropertyValueBuffer
+   (2.8.5)
+
+Nathanial Ofiesh (ofiesh@github)
+  * Reported #1441: Failure with custom Enum key deserializer, polymorphic types
+   (2.8.5)
+
+Frédéric Camblor (fcamblor@github)
+  * Reported #1451: Type parameter not passed by `ObjectWriter` if serializer pre-fetch disabled
+   (2.8.6)
+
+Stephan Schroevers (Stephan202@github)
+  * Reported #1505: @JsonEnumDefaultValue should take precedence over FAIL_ON_NUMBERS_FOR_ENUMS
+   (2.8.7)
+
+Alex Panchenko (panchenko@github)
+  * Reported #1543: JsonFormat.Shape.NUMBER_INT does not work when defined on enum type in 2.8
+   (2.8.8)
+
+Joshua Jones
+  * Reported #1573, contributed fix: Missing properties when deserializing using a builder class
+   with a non-default constructor and a mutator annotated with `@JsonUnwrapped`
+   (2.8.8)
+
+Ivo Studens (istudens@redhat.com)
+  * Contributed #1585: Invoke ServiceLoader.load() inside of a privileged block
+    when loading modules using `ObjectMapper.findModules()`
+   (2.8.9)
+
+Javy Luo (AnywnYu@github)
+  * Reported #1595: `JsonIgnoreProperties.allowSetters` is not working in Jackson 2.8
+   (2.8.9)
+
+Marco Catania (catanm@github.com)
+  * Contributed #1597: Escape JSONP breaking characters
+   (2.8.9)
+
+Andrew Joseph (apjoseph@github)
+  * Reported #1629 `FromStringDeserializer` ignores registered `DeserializationProblemHandler`
+    for `java.util.UUID`
+   (2.8.9)
+
+Joe Littlejohn (joelittlejohn@github)
+  * Contributed #1642: Support `READ_UNKNOWN_ENUM_VALUES_AS_NULL` with `@JsonCreator`
+   (2.8.9)
+
+Slobodan Pejic (slobo-showbie@github)
+  * Reported #1647, contributed fix: Missing properties from base class when recursive
+    types are involved
+   (2.8.9)
+
+Bertrand Renuart (brenuart@github)
+  * Reported #1648: `DateTimeSerializerBase` ignores configured date format when creating contextual
+   (2.8.9)
+  * Reported #1651: `StdDateFormat` fails to parse 'zulu' date when TimeZone other than UTC
+   (2.8.9)
+  * Suggested #1745: StdDateFormat: accept and truncate millis larger than 3 digits
+   (2.9.1)
+  * Contributed #1749: StdDateFormat: performance improvement of '_format(..)' method
+   (2.9.1)
+  * Contributed #1759: Reuse `Calendar` instance during parsing by `StdDateFormat`
+   (2.9.1)
+
+Kevin Gallardo (newkek@github)
+  * Reported #1658: Infinite recursion when deserializing a class extending a Map,
+    with a recursive value type
+   (2.8.10)
+
+Connor Kuhn (ckuhn@github)
+  * Contributed #1341: FAIL_ON_MISSING_EXTERNAL_TYPE_ID_PROPERTY
+   (2.9.0)
+
+Jan Lolling (jlolling@github)
+  * Contributed #1319: Add `ObjectNode.put(String, BigInteger)`
+   (2.9.0)
+
+Michael R Fairhurst (MichaelRFairhurst@github)
+  * Reported #1035: `@JsonAnySetter` assumes key of `String`, does not consider declared type.
+   (2.9.0)
+
+Fabrizio Cucci (fabriziocucci@github)
+  * Reported #1406: `ObjectMapper.readTree()` methods do not return `null` on end-of-input
+   (2.9.0)
+
+Emiliano Clariá (emilianogc@github)
+  * Contributed #1434: Explicitly pass null on invoke calls with no arguments
+   (2.9.0)
+
+Ana Eliza Barbosa (AnaEliza@github)
+  * Contributed #1520: Case insensitive enum deserialization feature.
+   (2.9.0)
+
+Lyor Goldstein (lgoldstein@github)
+  * Reported #1544: `EnumMapDeserializer` assumes a pure `EnumMap` and does not support
+    derived classes
+   (2.9.0)
+
+Harleen Sahni (harleensahni@github)
+  * Reported #403: Make FAIL_ON_NULL_FOR_PRIMITIVES apply to primitive arrays and other
+    types that wrap primitives
+   (2.9.0)
+
+Jared Jacobs (2is10@github)
+  * Requested #1605: Allow serialization of `InetAddress` as simple numeric host address
+   (2.9.0)
+
+Patrick Gunia (pgunia@github)
+  * Reported #1440: Wrong `JsonStreamContext` in `DeserializationProblemHandler` when reading
+  `TokenBuffer` content
+   (2.9.0)
+
+Carsten Wickner (CarstenWickner@github)
+  * Contributed #1522: Global `@JsonInclude(Include.NON_NULL)` for all properties with a specific type
+   (2.9.0)
+
+Chris Plummer (strmer15@github)
+  * Reported #1637: `ObjectReader.at()` with `JsonPointer` stops after first collection
+   (2.9.0)
+
+Christian Basler (Dissem@github)
+  * Reported #1688: Deserialization fails for `java.nio.file.Path` implementations when
+    default typing enabled
+   (2.9.0)
+
+Tim Bartley (tbartley@github)
+  * Reported, suggested fix for #1705: Non-generic interface method hides type resolution info
+    from generic base class
+(2.9.1)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jackson-dataformat-properties
+
+Copyright 2012 FasterXML.com
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+JavaEWAH
+
+Copyright 2009-2013, Daniel Lemire, Cliff Moon, David McIntosh, Robert Becho, Google Inc., Veronika Zenz and Owen Kaser
+
+Copyright 2012, Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jboss-logging
+
+Copyright 2010-2015 Red Hat, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jcl-over-slf4j
+
+Copyright 2001-2004 The Apache Software Foundation.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+jsch
+
+Copyright (c) 2002-2010 Atsuhiko Yamanaka
+Copyright (c) 2006-2010 ymnk, JCraft,Inc.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright 
+     notice, this list of conditions and the following disclaimer in 
+     the documentation and/or other materials provided with the distribution.
+
+  3. The names of the authors may not be used to endorse or promote products
+     derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL JCRAFT,
+INC. OR ANY CONTRIBUTORS TO THIS SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+log4j-over-slf4j
+
+Copyright 2001-2004 The Apache Software Foundation.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+logback-access
+
+Copyright (C) 1999-2017, QOS.ch.  All rights reserved.
+
+Eclipse Public License - v 1.0
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Contribution" means:
+
+a) in the case of the initial Contributor, the initial code and documentation distributed under this Agreement, and
+
+b) in the case of each subsequent Contributor:
+
+i) changes to the Program, and
+
+ii) additions to the Program;
+
+where such changes and/or additions to the Program originate from and are distributed by that particular Contributor. A Contribution 'originates' from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include additions to the Program which: (i) are separate modules of software distributed in conjunction with the Program under their own license agreement, and (ii) are not derivative works of the Program.
+
+"Contributor" means any person or entity that distributes the Program.
+
+"Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+
+"Program" means the Contributions distributed in accordance with this Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.
+
+2. GRANT OF RIGHTS
+
+a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form.
+
+b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+
+c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
+
+d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+
+3. REQUIREMENTS
+
+A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+
+a) it complies with the terms and conditions of this Agreement; and
+
+b) its license agreement:
+
+i) effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+
+ii) effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+
+iii) states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party; and
+
+iv) states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+
+When the Program is made available in source code form:
+
+a) it must be made available under this Agreement; and
+
+b) a copy of this Agreement must be included with each copy of the Program.
+
+Contributors may not remove or alter any copyright notices contained within the Program.
+
+Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement , including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version. Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.
+
+This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
+
+----
+
+logback-access-spring-boot-starter
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+logback-classic
+
+Copyright (C) 1999-2015, QOS.ch. All rights reserved.
+
+Eclipse Public License - v 1.0
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Contribution" means:
+
+a) in the case of the initial Contributor, the initial code and documentation distributed under this Agreement, and
+
+b) in the case of each subsequent Contributor:
+
+i) changes to the Program, and
+
+ii) additions to the Program;
+
+where such changes and/or additions to the Program originate from and are distributed by that particular Contributor. A Contribution 'originates' from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include additions to the Program which: (i) are separate modules of software distributed in conjunction with the Program under their own license agreement, and (ii) are not derivative works of the Program.
+
+"Contributor" means any person or entity that distributes the Program.
+
+"Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+
+"Program" means the Contributions distributed in accordance with this Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.
+
+2. GRANT OF RIGHTS
+
+a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form.
+
+b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+
+c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
+
+d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+
+3. REQUIREMENTS
+
+A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+
+a) it complies with the terms and conditions of this Agreement; and
+
+b) its license agreement:
+
+i) effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+
+ii) effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+
+iii) states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party; and
+
+iv) states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+
+When the Program is made available in source code form:
+
+a) it must be made available under this Agreement; and
+
+b) a copy of this Agreement must be included with each copy of the Program.
+
+Contributors may not remove or alter any copyright notices contained within the Program.
+
+Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement , including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version. Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.
+
+This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
+
+----
+
+logback-core
+
+Copyright (C) 1999-2015, QOS.ch. All rights reserved.
+
+Eclipse Public License - v 1.0
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Contribution" means:
+
+a) in the case of the initial Contributor, the initial code and documentation distributed under this Agreement, and
+
+b) in the case of each subsequent Contributor:
+
+i) changes to the Program, and
+
+ii) additions to the Program;
+
+where such changes and/or additions to the Program originate from and are distributed by that particular Contributor. A Contribution 'originates' from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include additions to the Program which: (i) are separate modules of software distributed in conjunction with the Program under their own license agreement, and (ii) are not derivative works of the Program.
+
+"Contributor" means any person or entity that distributes the Program.
+
+"Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+
+"Program" means the Contributions distributed in accordance with this Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.
+
+2. GRANT OF RIGHTS
+
+a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form.
+
+b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+
+c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
+
+d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+
+3. REQUIREMENTS
+
+A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+
+a) it complies with the terms and conditions of this Agreement; and
+
+b) its license agreement:
+
+i) effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+
+ii) effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+
+iii) states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party; and
+
+iv) states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+
+When the Program is made available in source code form:
+
+a) it must be made available under this Agreement; and
+
+b) a copy of this Agreement must be included with each copy of the Program.
+
+Contributors may not remove or alter any copyright notices contained within the Program.
+
+Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement , including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version. Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.
+
+This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
+
+----
+
+logstash-logback-encoder
+
+Developers
+Neil Prosser (Nokia Corp.)
+Phil Clay
+John E. Vincent
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+mapstruct-jdk8
+
+Copyright 2012-2016 Gunnar Morling
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+org.eclipse.jgit
+
+Copyright (c) 2007, Eclipse Foundation, Inc.
+
+Copyright (c) 2010, Red Hat Inc.
+
+Copyright (c) 2010, 2013 Sasa Copyright (c) 2012, Research In Motion Limited
+
+Copyright (c) 2008-2013, Google Inc.
+
+Copyright (c) 2008, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2007, Dave Watson <dwatson@mimvista.com> Copyright (c) 2008-2010, Google Inc. Copyright (c) 2006-2010, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2006-2008, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2012, Christian Halstrick <christian.halstrick@sap.com> Copyright (c) 2011, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2007, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2006-2008, Shawn O. Pearce <spearce@spearce.org> Copyright (c) 2010, Google Inc.
+
+Copyright (c) 2008, Marek Zawirski marek.zawirski@gmail.com
+
+Copyright (c) 2011, Chris Aniszczyk <caniszczyk@gmail.com> Copyright (c) 2009, Robin Rosenberg robin.rosenberg@dewire.com
+
+Copyright (c) 2011, 2012 Google Inc. and others.
+
+Copyright (c) 2010, 2014 Sasa
+
+Copyright (c) 2010, Christian Halstrick <christian.halstrick@sap.com> Copyright (c) 2010, Stefan Lay stefan.lay@sap.com
+
+Copyright (c) 2008, Florian Koeberle <florianskarten@web.de> Copyright (c) 2008, Florian Koberle <florianskarten@web.de> Copyright (c) 2009, Vasyl Vavrychuk vvavrychuk@gmail.com
+
+Copyright (c) 2009, Jonas Fonseca <fonseca@diku.dk> Copyright (c) 2007, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2008, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2013, Christian Halstrick christian.halstrick@sap.com
+
+Copyright (c) 2011, GitHub Inc.
+
+Copyright (c) 2008, Florian Koeberle <florianskarten@web.de> Copyright (c) 2008, Florian Koberle florianskarten@web.de
+
+Copyright (c) 2010, Garmin International Copyright (c) 2010, Matt Fischer matt.fischer@garmin.com
+
+Copyright (c) 2011, GEBIT Solutions
+
+Copyright (c) 2010, Garmin International Copyright (c) 2010, Matt Fischer matt.fischer@garmin.com
+
+Copyright (c) 2009, Mark Struberg <struberg@yahoo.de> Copyright (c) 2008, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2011, Tomasz Zarna Tomasz.Zarna@pl.ibm.com
+
+Copyright (c) 2010, Mathias Kinzler mathias.kinzler@sap.com
+
+Copyright (c) 2010, Chris Aniszczyk <caniszczyk@gmail.com> Copyright (c) 2011, Matthias Sohn matthias.sohn@sap.com
+
+Copyright (c) 2011, Chris Aniszczyk <zx@redhat.com> Copyright (c) 2011, Abhishek Bhatnagar abhatnag@redhat.com
+
+Copyright (c) 2011, 2012, IBM Corporation and others.
+
+Copyright (c) 2013, CloudBees, Inc.
+
+Copyright (c) 2011, Ketan Padegaonkar ketanpadegaonkar@gmail.com
+
+Copyright (c) 2010, Stefan Lay <stefan.lay@sap.com> Copyright (c) 2010-2012, Christian Halstrick christian.halstrick@sap.com
+
+Copyright (c) 2010,Mathias Kinzler
+
+Copyright (c) 2009, Constantine Plotnikov <constantine.plotnikov@gmail.com> Copyright (c) 2007, Dave Watson <dwatson@mimvista.com> Copyright (c) 2009, Google Inc. Copyright (c) 2009, JetBrains Copyright (c) 2008-2009, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2008, Shawn O. Pearce <spearce@spearce.org> Copyright (c) 2008, Thad Hughes thadh@thad.corp.google.com
+
+Copyright (c) 2008, Google Inc. Copyright (c) 2009, Johannes Schindelin johannes.schindelin@gmx.de
+
+Copyright (c) 2009, Google Inc. Copyright (c) 2009, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2009, Yann Simon <yann.simon.fr@gmail.com> Copyright (c) 2012, Daniel Megert daniel_megert@ch.ibm.com
+
+Copyright (c) 2014 Laurent Goujon lgoujon@twitter.com
+
+Copyright (c) 2012, Robin Rosenberg Copyright (c) 2010, 2013 Marc Strapetz marc.strapetz@syntevo.com
+
+Copyright (c) 2007 The Guava Authors Copyright (c) 2014, Sasa
+
+Copyright (c) 2010, 2013 Marc Strapetz marc.strapetz@syntevo.com
+
+Copyright (c) 2007, Dave Watson <dwatson@mimvista.com> Copyright (c) 2007-2008, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2010, Jens Baumgart <jens.baumgart@sap.com> Copyright (c) 2013, Robin Stocker robin@nibor.org
+
+Copyright (c) 2010, Mathias Kinzler <mathias.kinzler@sap.com> Copyright (c) 2009, Constantine Plotnikov <constantine.plotnikov@gmail.com> Copyright (c) 2007, Dave Watson <dwatson@mimvista.com> Copyright (c) 2008-2012, Google Inc. Copyright (c) 2009, JetBrains Copyright (c) 2007-2008, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2006-2008, Shawn O. Pearce <spearce@spearce.org> Copyright (c) 2008, Thad Hughes thadh@thad.corp.google.com
+
+Copyright (c) 2008, Charles O'Farrell <charleso@charleso.org> Copyright (c) 2009-2010, Google Inc. Copyright (c) 2009, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2008, Shawn O. Pearce spearce@spearce.org
+
+Copyright (c) 2010, Mathias Kinzler <mathias.kinzler@sap.com> Copyright (c) 2009, Constantine Plotnikov <constantine.plotnikov@gmail.com> Copyright (c) 2007, Dave Watson <dwatson@mimvista.com> Copyright (c) 2008-2010, Google Inc. Copyright (c) 2009, Google, Inc. Copyright (c) 2009, JetBrains Copyright (c) 2007-2008, Robin Rosenberg <robin.rosenberg@dewire.com> Copyright (c) 2006-2008, Shawn O. Pearce <spearce@spearce.org> Copyright (c) 2008, Thad Hughes thadh@thad.corp.google.com
+
+Copyright (c) 2014 Konrad Kugler
+
+Copyright (c) 2010-2012, Robin Stocker robin@nibor.org
+
+Copyright (c) 2009, Google Inc. Copyright (c) 2008-2009, Johannes E. Schindelin johannes.schindelin@gmx.de
+
+Copyright (c) 2014, Alexey Kuznetsov axet@me.com
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    Neither the name of the Eclipse Foundation, Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+snakeyaml
+
+Copyright (c) 2008, http://www.snakeyaml.org
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+Base64Coder
+
+Copyright 2003-2010 Christian d'Heureuse, Inventec Informatik AG, Zurich, Switzerland
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+spring-aop
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-beans
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-acutator
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-autoconfigure
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-configuration-processor
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-devtools
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-starter-actuator
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-starter-logging
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-starter
+
+Copyright 2002-2016 the original author or authors.
+
+Developers: 
+Akihiro Kondo
+Phillip Webb (Pivotal Software, Inc.)
+Dave Syer (Pivotal Software, Inc.)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-starter-tomcat
+
+Copyright 2002-2016 the original author or authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-boot-starter-web
+
+Copyright 2002-2016 the original author or authors.
+
+Developers: 
+Akihiro Kondo
+Phillip Webb (Pivotal Software, Inc.)
+Dave Syer (Pivotal Software, Inc.)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-commons
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Phillip Webb
+Dave Syer
+Spencer Gibb
+Ryan Baxter
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-config-client
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Dave Syer
+Spencer Gibb
+Marcin Grzejszczak
+Ryan Baxter
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-config-server
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Dave Syer
+Spencer Gibb
+Marcin Grzejszczak
+Ryan Baxter
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-context
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Dave Syer
+Spencer Gibb
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-starter-config
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Dave Syer
+Spencer Gibb
+Marcin Grzejszczak
+Ryan Baxter
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-cloud-starter
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Pivotal Software, Inc. 
+Dave Syer
+Spencer Gibb
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-context
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Juergen Hoeller
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-core
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-expression
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Juergen Hoeller
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-bean-validators
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-core
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-schema
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-spi
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-spring-web
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-swagger2
+
+Copyright 2002-2016 the original author or authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-swagger-common
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+springfox-swagger-ui
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Marty Pitt (The Mango Factory)
+Dilip Krishnan (The Container Store)
+Adrian Kelly (DiUS Computing)
+
+DroidSans*
+copyright 2007, Google Corporation. copyright 2007, Google Corporation. Droid Sans
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-plugin-core
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Oliver Gierke, Pivotal, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-plugin-metadata
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Oliver Gierke, Pivotal, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-security-crypto
+
+Copyright 2002-2016 the original author or authors.
+
+Copyright 2004, 2005, 2006 Acegi Technology Pty Limited
+
+Copyright 2012 Twitter, Inc
+
+Copyright (c) 2011-2012 VMware, Inc.
+
+(c) 2006 Entrust
+
+(c) 2008 thawte, Inc.
+
+(c) 1999-2006 VeriSign, Inc.
+
+(c) 2008 GeoTrust Inc.
+
+(c) 1999 Entrust.net
+
+Developers:
+Rob Winch, Pivotal Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-security-rsa
+
+Copyright 2002-2016 the original author or authors.
+
+Developers: 
+Dave Syer, Pivotal Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-webmvc
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Developers:
+Juergen Hoeller, Pivotal Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+spring-web
+
+Copyright (c) 2002-2017 Pivotal, Inc.
+
+Copyright 2002-2016 the original author or authors.
+
+Portions (C) International Organization for Standardization 1986
+
+Copyright (c) 1999-2009, OW2 Consortium
+
+Copyright (c) 2000-2011 INRIA, France Telecom
+
+Developers: 
+Juergen Hoeller, Pivotal Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+swagger-annotations
+
+Copyright 2016 SmartBear Software
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+swagger-models
+
+Copyright 2016 SmartBear Software
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+tomcat-embed-core
+
+Copyright 1999-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+tomcat-embed-el
+
+Copyright 1999-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+tomcat-embed-websocket
+
+Copyright 1999-2017 The Apache Software Foundation
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+validation-api
+
+Copyright 2009-2013, Red Hat, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+----
+
+marathon-client
+
+Developers:
+Mohit Soni: https://github.com/mohitsoni/marathon-client
+Vincent Latombe: https://github.com/cloudbees/marathon-client/
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.

@@ -1,0 +1,102 @@
+{
+  "id": "/fakeservice-dev",
+  "instances": 1,
+  "cpus": 1.0,
+  "mem": 512.0,
+  "container": {
+    "type": "DOCKER",
+    "docker": {
+      "network": "BRIDGE",
+      "forcePullImage": true,
+      "portMappings": [
+        {
+          "containerPort": 8080,
+          "hostPort": 0,
+          "servicePort": 9000,
+          "protocol": "tcp",
+          "labels": {
+            "app-label-test": "app-label-test-value"
+          }
+        }
+      ],
+      "parameters": [
+        {
+          "key": "global-docker-param-test",
+          "value": "global-docker-param-test-value"
+        },
+        {
+          "key": "application-docker-param-test",
+          "value": "application-docker-param-test-value"
+        },
+        {
+          "key": "environment-docker-param-test",
+          "value": "environment-docker-param-test-value"
+        }
+      ],
+      "privileged": false
+    },
+    "volumes": [
+      {
+        "containerPath": "/vol",
+        "hostPath": "/vol",
+        "mode": "RW",
+        "id": "vol",
+        "status": "status",
+        "type": "type",
+        "name": "name",
+        "provider": "provider",
+        "options": {
+          "app-vol-test": "app-vol-test-value"
+        }
+      }
+    ]
+  },
+  "env": {
+    "application-env-test": "application-env-test-value",
+    "global-env-test": "global-env-test-value",
+    "environment-env-test": "environment-env-test-value"
+  },
+  "secrets": {
+    "app-secret-test": {
+      "source": "app-secret-test-value"
+    }
+  },
+  "labels": {
+    "app-label-test": "app-label-test-value",
+    "app-label-test-list": "app-label-test-list-value",
+    "HAPROXY_0_BACKEND_HTTP_HEALTHCHECK_OPTIONS": "option httpchk GET {healthCheckPath} HTTP/1.1\\r\\nHost:\\ myhost-dev.com\n",
+    "HAPROXY_0_BACKEND_HEAD": "backend {backend}\r\n balance {balance}\r\n mode {mode}\r\n timeout server 300s\r\n timeout client 300s\r\n"
+  },
+  "constraints": [
+    [
+      "app-test-attribute",
+      "UNIQUE",
+      "app-test-attribute-value"
+    ]
+  ],
+  "fetch": [
+    {
+      "uri": "app-test-fetch",
+      "executable": true,
+      "extract": true,
+      "cache": true,
+      "outputFile": "outputFile"
+    }
+  ],
+  "healthChecks": [
+    {
+      "gracePeriodSeconds": 5,
+      "intervalSeconds": 10,
+      "maxConsecutiveFailures": 3,
+      "portIndex": 0,
+      "timeoutSeconds": 10,
+      "ignoreHttp1xx": true,
+      "path": "/",
+      "protocol": "MESOS_HTTP"
+    }
+  ],
+  "upgradeStrategy": {
+    "minimumHealthCapacity": 1.0,
+    "maximumOverCapacity": 0.5
+  }
+}

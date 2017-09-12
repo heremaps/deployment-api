@@ -1,0 +1,24 @@
+<configuration>
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<springProfile name="logstash">
+			<encoder class="net.logstash.logback.encoder.LogstashEncoder" />
+		</springProfile>
+		<springProfile name="!logstash">
+			<encoder>
+				<pattern>%d %-5level [%thread] %logger{0}: %msg%n</pattern>
+			</encoder>
+		</springProfile>
+	</appender>
+	
+	<root level="info">
+		<appender-ref ref="STDOUT" />
+	</root>
+	
+	<logger name="org.hibernate.validator.internal.util.Version" additivity="false" level="ERROR">
+    	<appender-ref ref="STDOUT"/>
+	</logger>
+	
+	<logger name="net.rakugakibox.spring.boot.logback.access.LogbackAccessContext" additivity="false" level="ERROR">
+    	<appender-ref ref="STDOUT"/>
+	</logger>
+</configuration>

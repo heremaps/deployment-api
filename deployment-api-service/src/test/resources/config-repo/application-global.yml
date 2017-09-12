@@ -1,0 +1,18 @@
+marathon:
+  url: http://global-test-url
+global:
+  env:
+    -
+      key: global-env-test
+      value: global-env-test-value
+  docker:
+    parameters:
+      -
+        key: global-docker-param-test
+        value: global-docker-param-test-value
+  labels:
+      -
+        key: HAPROXY_0_BACKEND_HEAD
+        template: haproxy_backend_head
+        args:
+          - 300s

@@ -1,0 +1,21 @@
+<configuration>
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+	  <springProfile name="logstash">
+	    <encoder class="net.logstash.logback.encoder.LogstashAccessEncoder">
+			<fieldNames>
+			    <fieldsRequestHeaders>@fields.request_headers</fieldsRequestHeaders>
+	    		<fieldsResponseHeaders>@fields.response_headers</fieldsResponseHeaders>
+	    		<message>message</message>    		
+	  		</fieldNames>    
+    	</encoder>
+	  </springProfile>
+	  <springProfile name="!logstash">
+	    <encoder>
+	    	<pattern>combined</pattern>   
+    	</encoder>
+	  </springProfile>
+  </appender>
+  
+  <appender-ref ref="STDOUT" />
+  
+</configuration>

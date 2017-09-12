@@ -1,0 +1,5 @@
+deployment:  
+  label:
+    template:
+      user:
+        user_test: test_{this}_works \r \\r \\ \n \r\n \\r\\n_{0}_{2}_{yes}_{1}_ok

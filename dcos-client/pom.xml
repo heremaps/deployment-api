@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>dcos-client</artifactId>
+	<packaging>jar</packaging>
+	
+	<name>dcos-client</name>
+	<description>A Java API client for Enterprise DC/OS. (Fork of https://github.com/cloudbees/marathon-client)</description>
+	
+	<parent>
+		<groupId>com.here.deployment</groupId>
+		<artifactId>deployment-api</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+	
+	<properties>
+		<feign-version>8.14.1</feign-version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
+    	<sonar.skip>true</sonar.skip>
+	</properties>
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.netflix.feign</groupId>
+			<artifactId>feign-core</artifactId>
+			<version>${feign-version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.netflix.feign</groupId>
+			<artifactId>feign-gson</artifactId>
+			<version>${feign-version}</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.netflix.feign</groupId>
+		    <artifactId>feign-slf4j</artifactId>
+		   	<version>${feign-version}</version>
+		</dependency>	
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<profiles>
+		<profile>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-source-plugin</artifactId>
+						<version>2.2.1</version>
+						<executions>
+							<execution>
+								<id>attach-sources</id>
+								<goals>
+									<goal>jar</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-javadoc-plugin</artifactId>
+						<version>2.9</version>
+						<executions>
+							<execution>
+								<id>attach-javadocs</id>
+								<goals>
+									<goal>jar</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>				
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

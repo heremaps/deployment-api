@@ -1,0 +1,19 @@
+marathon:
+  appId: /fakeservice-dev
+  instances: 1 
+environment:
+  env:
+    - 
+      key: environment-env-test
+      value: environment-env-test-value
+  docker:
+    parameters:
+      -
+        key: environment-docker-param-test
+        value: environment-docker-param-test-value
+  labels:
+    -
+      key: HAPROXY_0_BACKEND_HTTP_HEALTHCHECK_OPTIONS
+      template: haproxy_backend_health
+      args:
+        - myhost-dev.com

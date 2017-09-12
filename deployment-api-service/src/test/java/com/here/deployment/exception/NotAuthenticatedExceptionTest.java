@@ -1,0 +1,30 @@
+package com.here.deployment.exception;
+
+import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.Matchers.instanceOf;
+import static org.hamcrest.Matchers.not;
+import static org.hamcrest.Matchers.nullValue;
+import static org.junit.Assert.assertThat;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
+import com.here.deployment.exception.NotAuthenticatedException;
+
+@RunWith(JUnit4.class)
+public class NotAuthenticatedExceptionTest {
+
+	@Test
+	public void test_default_constructor() {
+		NotAuthenticatedException exception = new NotAuthenticatedException();
+		assertThat(exception, not(nullValue()));
+		assertThat(exception, instanceOf(RuntimeException.class));
+	}
+	
+	@Test
+	public void test_string_constructor() {
+		NotAuthenticatedException exception = new NotAuthenticatedException("error!");
+		assertThat(exception, not(nullValue()));
+		assertThat(exception, instanceOf(RuntimeException.class));
+		assertThat(exception.getMessage(), equalTo("error!"));
+	}
+}

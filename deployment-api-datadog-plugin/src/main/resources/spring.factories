@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.here.dcos.deployment.datadog.etcd.config.DatadogClientAutoConfiguration
